@@ -1,22 +1,22 @@
-### Basic-Portfolio
+# Basic-Portfolio
 This is my mock portfolio created for NU Bootcamp Homework.
 
 ## Callouts    
 
-# About Us Page
+### About Us Page
 
 * Attempted to jazz this page up with some external links. 
 * The links in text and the nav bar should change to teal on hover status. 
 * I removed the underline in the nav bar to match the mock up screenshots.
 
-#Contact US Page
+### Contact Page
 
 * The button changes color when clicked, but no other action. Clicks do nothing.
 
 * Message field is using a <textarea> element so that its size can be manipulated by the viewer.
 
 
-# Portfolio Page
+### Portfolio Page
 
 * The placeholder thumbnnails don't click to new locations. Hover status changes the opacity for the thumbnails.
 
